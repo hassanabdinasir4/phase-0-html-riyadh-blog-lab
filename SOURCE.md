@@ -48,7 +48,7 @@ IMAGE 3 FILE
 
 IMAGE 3 ALT TEXT
 
-`The roads of Riyadh`
+`camels-in-truck.jpg`
 
 SMALLER SUB HEAD
 
@@ -63,3 +63,4 @@ LINK 2
 
 `Wikipedia`
 `http://en.wikipedia.org/wiki/Riyadh`
+ 
